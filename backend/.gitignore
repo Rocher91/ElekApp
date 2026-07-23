@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+
+# Environment variables
+.env
+
+# Database
+app/data/*.db
+app/data/*.sqlite
+app/data/*.sqlite3
+
+# Uploads
+uploads/
+app/uploads/
+
+# Exports
+exports/
+app/exports/
